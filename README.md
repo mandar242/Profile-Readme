@@ -1,7 +1,4 @@
-# Profile-Readme
-<h1 align="center">Hi 👋, I'm Mandar</h1>
-
-
+<h2 align="center">Hi 👋, I'm Mandar</h2>
 
 - :desktop_computer: Software Engineer - **Red Hat - Ansible**
 

@@ -5,7 +5,7 @@
 
 - :desktop_computer: Software Engineer - **Red Hat - Ansible**
 
-- 🎓 A graduate from **California State University Long Beach**
+- 🎓 Master's in Computer Scinece -  **California State University Long Beach**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

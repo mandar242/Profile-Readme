@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Mandar</h2>
+<h1 align="center">Hi 👋, I'm Mandar</h1>
 
 - :desktop_computer: Software Engineer - **Red Hat - Ansible**
 
